@@ -1,0 +1,8 @@
+body {
+  font-family:  "Courier New"; }
+  h1 {font-family: "Verdana";}
+  h3 {font-style: italic;}
+  address {font-size: 10px;}
+  .pogrubione {font-weight: bold;}
+.info {font: italic 12px Georgia;}
+  a {text-decoration: none;}
